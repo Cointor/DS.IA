@@ -1,5 +1,5 @@
 # DS.IA
-SelfBot en español, Original Code [Exter](https://github.com/Swag1400/exeter-selfbot-beta) 
+SelfBot en español, Original Code [Exeter](https://github.com/Swag1400/exeter-selfbot-beta) 
 
 
 
@@ -52,5 +52,5 @@ Nota: De colocar un dato mal tira error
 Comando de help dshelp prefix = ds
 
 
-![download](https://media.discordapp.net/attachments/846780334414888971/846961311332958268/unknown.png?width=411&height=40)
+![download](https://media.discordapp.net/attachments/846897016410865675/846964454473203722/unknown.png?width=403&height=406)
 
