@@ -1,0 +1,6 @@
+{
+    "token": "", // Dentro de las "" Añade tu token
+    "password": "", // Dentro de las "" Añade la contraseña de la cuenta que uses
+    "prefix": "ds",
+    "nitro_sniper": false
+}
